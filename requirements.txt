@@ -1,5 +1,3 @@
 dask[complete]
-jupyterlab
-notebook
 panel
 jupyter-panel-proxy
