@@ -2,10 +2,4 @@ dask[complete]
 jupyterlab
 notebook
 panel
-diskcache
-requests
-pyarrow
-openpyxl
-mypy
-isort
 jupyter-panel-proxy
