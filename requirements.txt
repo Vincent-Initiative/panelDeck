@@ -1,3 +1,4 @@
+dask[complete]
 jupyterlab
 notebook
 panel
