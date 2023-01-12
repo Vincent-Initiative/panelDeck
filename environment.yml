@@ -2,14 +2,25 @@ name: load-forecasts
 channels:
   - conda-forge
 dependencies:
+  - dask[complete]
+  - holoviews
+  - hvplot
   - jupyterlab
   - notebook
   - panel
-  - jupyter-panel-proxy
   - diskcache
   - requests
   - pyarrow
   - openpyxl
+  - datashader
+  - mypy
+  - isort
+  - black
+  - autoflake
+  - cartopy
+  - geoviews
+  - voila
+  - jupyter-panel-proxy
   - pip
   - pip:
     - git+https://github.com/holoviz/panel.git#egg=panel
