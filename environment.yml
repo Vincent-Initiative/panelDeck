@@ -3,8 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - dask[complete]
-  - holoviews
-  - hvplot
   - jupyterlab
   - notebook
   - panel
@@ -12,14 +10,10 @@ dependencies:
   - requests
   - pyarrow
   - openpyxl
-  - datashader
   - mypy
   - isort
   - black
   - autoflake
-  - cartopy
-  - geoviews
-  - voila
   - jupyter-panel-proxy
   - pip
   - pip:
