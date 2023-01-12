@@ -6,6 +6,10 @@ dependencies:
   - notebook
   - panel
   - jupyter-panel-proxy
+  - diskcache
+  - requests
+  - pyarrow
+  - openpyxl
   - pip
   - pip:
     - git+https://github.com/holoviz/panel.git#egg=panel
