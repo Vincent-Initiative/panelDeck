@@ -1,3 +1,2 @@
 dask[complete]
 panel
-jupyter-panel-proxy
