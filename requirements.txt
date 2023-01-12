@@ -1,0 +1,14 @@
+dask[complete]
+jupyterlab
+notebook
+panel
+diskcache
+requests
+pyarrow
+openpyxl
+mypy
+isort
+black
+autoflake
+jupyter-panel-proxy
+pip
